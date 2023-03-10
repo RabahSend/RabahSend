@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Rabah
 - 👀 I’m interested in programming, cybersecurity
 - 🌱 I’m currently learning Python, OSINT, HTML/CSS, Javascript, C++, Shell
+- 📚 I'm in my first year of computer science at UIT Arles.
