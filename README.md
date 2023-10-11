@@ -19,7 +19,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,qt,java,python,postgres" /><br>
-     <img src="https://skillicons.dev/icons?i=github,gitlab,powershell,linux,bash,git,vim,azure,aws" /><br>
+     <img src="https://skillicons.dev/icons?i=github,gitlab,powershell,linux,bash,git,vim,azure,postman" /><br>
 
 </div>
 
