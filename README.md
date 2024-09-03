@@ -4,7 +4,7 @@
 </a>
 </h1>
 
-<h3 align="center">📚 I'm in my second year of computer science at UIT Arles.</h3>
+<h3 align="center">📚 I'm in my third and last year of computer science at UIT Arles.</h3>
 
 <hr/>
 <div align="center">
