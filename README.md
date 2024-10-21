@@ -4,7 +4,7 @@
 </a>
 </h1>
 
-<h3 align="center">📚 I'm in my third and last year of computer science at UIT Arles.</h3>
+<h3 align="center">📚 I'm in my third and last year of computer science in a UIT.</h3>
 
 <hr/>
 <div align="center">
@@ -24,5 +24,3 @@
 </div>
 
 <hr />
-
-[![Static Badge](https://img.shields.io/badge/LinkedIn-Rabah%20Nini-000080)](https://www.linkedin.com/in/rabah-nini-330a26263/)
