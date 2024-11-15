@@ -8,7 +8,7 @@
 
 <hr/>
 <div align="center">
- 🌱 I’m currently learning <strong>Python, OSINT, HTML/CSS, Java, Javascript, C++, Shell, VBA</strong><br/>
+ 🌱 I’m currently learning <strong>Python, OSINT, HTML/CSS, Java, Javascript, C++, Shell, VBA, Azure environment</strong><br/>
  👀 I’m interested in <strong>programming, cybersecurity, quantum computing</strong>
 </div>
 <hr/>
